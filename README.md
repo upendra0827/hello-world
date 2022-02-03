@@ -5,3 +5,5 @@ Github was being used by many developers.
 Although we have many version control systems, github is widely used.
 
 i don't think getting constricted ti github a good idea. one has try other things too.
+
+For a programmer, its difficult to allot time to work with so many version control systems.
